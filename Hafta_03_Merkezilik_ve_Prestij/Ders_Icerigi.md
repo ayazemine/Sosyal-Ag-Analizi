@@ -13,8 +13,6 @@ Bu hafta, bu farklı "önem" tanımlarını matematiksel olarak formüle eden d�
 
 ## 📚 2. Konu Başlıkları ve Haftalık Akış
 
-![merkezilik](/gorseller/sosyalag-merkezilik.png/)
-
 1.  **Merkezilik Kavramının Felsefesi**
     *   Yapısal önem vs. Özelliksel önem.
     *   Linton Freeman'ın 1978 makalesi ve üç temel kavram.
@@ -33,7 +31,7 @@ Bu hafta, bu farklı "önem" tanımlarını matematiksel olarak formüle eden d�
     *   Seçilme vs. Seçme.
 
 ## 📝 3. Detaylı İçerik
-
+![merkezilik](/gorseller/sosyalag-merkezilik.png/)
 ### 3.1. Derece Merkezliği (Degree Centrality)
 En basit ve en temel ölçüdür. Bir düğümün doğrudan bağlı olduğu komşu sayısını ifade eder. Sadece "yerel" çevreyi dikkate alır.
 *   **Tanım:** $C_D(i) = k_i = \sum_{j} A_{ij}$
