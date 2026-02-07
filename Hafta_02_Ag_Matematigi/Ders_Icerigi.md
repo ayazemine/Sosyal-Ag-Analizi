@@ -1,5 +1,7 @@
 # Hafta 2: Ağ Matematiği ve Graf Teorisi
 
+![NetworkOfMath](https://lh6.googleusercontent.com/proxy/XQwVTzSGdwqrdFq_CaxNmqaKjuh_-3lABd6IraAgacx0d0JgyoFz7fTEGw4MwesWg4aou-0kbzvMo0wocCt9Ro2YIUgZ8mpzKQIIe5_U)
+
 ## 📌 1. Ders Hakkında ve Giriş
 Geçen hafta sosyal ağ analizinin kavramsal çerçevesini ve tarihçesini inceledik. Bu hafta ise işin "mutfağına", yani matematiğine giriyoruz. Sosyal, biyolojik veya teknolojik herhangi bir ağı analiz edebilmek için ortak bir dile ihtiyacımız vardır. Bu dil, **Graf Teorisi (Graph Theory)**'dir. Bir sosyolog "A, B'nin arkadaşıdır" derken, bir matematikçi veya bilgisayar bilimci bunu "$G=(V, E)$ grafında $A$ ve $B$ düğümleri arasında bir kenar vardır ($e_{AB} \in E$)" şeklinde ifade eder. Bu formalizasyon, milyonlarca düğümden oluşan karmaşık sistemleri bilgisayarlarla analiz etmemizi, ölçmemizi ve karşılaştırmamızı sağlar.
 

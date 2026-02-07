@@ -12,6 +12,9 @@ Bir sosyal ağ haritasına baktığınızda, bazı düğümlerin diğerlerinden 
 Bu hafta, bu farklı "önem" tanımlarını matematiksel olarak formüle eden dört temel merkezilik ölçüsünü (Derece, Yakınlık, Arasındalık, Özvektör) inceleyeceğiz. Ayrıca Larry Page ve Sergey Brin'in bu kavramları kullanarak nasıl Google'ı kurduğunu (PageRank algoritması) ve web'i bir "prestij ağı" olarak nasıl modellediklerini göreceğiz. Sadece formülleri değil, bu formüllerin arkasındaki sosyolojik anlamı (Güç, Otorite, Bağımsızlık) kavrayacağız.
 
 ## 📚 2. Konu Başlıkları ve Haftalık Akış
+
+![merkezilik](/gorseller/sosyalag-merkezilik.png/)
+
 1.  **Merkezilik Kavramının Felsefesi**
     *   Yapısal önem vs. Özelliksel önem.
     *   Linton Freeman'ın 1978 makalesi ve üç temel kavram.

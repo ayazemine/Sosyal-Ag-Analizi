@@ -1,5 +1,7 @@
 # Hafta 1: Sosyal Medya ve Bilgi Ağlarına Giriş
 
+![SosyalAgAnalizi](https://mustafapala.blog/wp-content/uploads/2021/05/sosyal-ag-koyu.jpg)
+
 ## 📌 1. Ders Hakkında ve Giriş
 Sosyal Ağ Analizi (SAA), modern dünyanın karmaşık yapısını anlamak için geliştirilmiş en güçlü disiplinlerarası araçlardan biridir. Bu ilk dersimiz, bir döneme yayılacak olan yolculuğumuzun temelini oluşturmaktadır. Sadece bir metadoloji öğrenmeyecek, aynı zamanda dünyaya bakış açımızı değiştirecek yeni bir "mercek" kazanacağız. Geleneksel sosyal bilimler genellikle bireylerin özelliklerine (yaş, cinsiyet, gelir durumu vb.) odaklanırken, Sosyal Ağ Analizi, bireyler arasındaki **ilişkilere** ve bu ilişkilerin oluşturduğu **yapılara** odaklanır. "Kimin ne bildiği değil, kimin kimi tanıdığı önemlidir" sözü, bu dersin en basit özetidir, ancak buzdağının sadece görünen kısmıdır. Bu hafta, ağ biliminin tarihsel köklerine inecek, temel tanımlarını yapacak ve neden 21. yüzyılın "Ağlar Yüzyılı" olarak adlandırıldığını derinlemesine irdeleyeceğiz.
 
